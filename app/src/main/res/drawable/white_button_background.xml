@@ -1,0 +1,5 @@
+<!-- white_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Couleur de fond blanche -->
+    <corners android:radius="4dp" /> <!-- Bords arrondis, ajustez selon vos préférences -->
+</shape>
